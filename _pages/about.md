@@ -1,69 +1,60 @@
 ---
 permalink: /
-title: "Chenbin ZHANG"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-## About Me
+I am an Associate Professor at the School of Cyber Science and Technology, Shandong University, Qingdao, China. I received my Ph.D. degree from The Hong Kong Polytechnic University under the supervision of [Dr. Nan Guan](https://www.cs.cityu.edu.hk/~nanguan/).
 
-Chenbin Zhang is an undergraduate student in the class of 2021, majoring in Intelligent Science and Technology at the College of Automation & College of Artificial Intelligence, Nanjing University of Posts and Telecommunications. He is currently enrolled in an integrated program leading to a Bachelor's, Master's, and Ph.D. in Control Science and Engineering.
+My research focuses on real-time and embedded systems, with particular interests in energy-harvesting and intermittent computing, timing analysis and optimization, and efficient blockchain systems.
 
-With a passion for building and innovating, Zhang has open-sourced numerous impactful research and practice projects. His work has been recognized by the community, including the [DeltaForce-OBS-Locker](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) project, which has garnered thousands of stars and forks on GitHub.
+## Research Interests
 
-For more detailed information, please refer to his [Baidu Baike entry](https://baike.baidu.com/item/%E5%BC%A0%E6%99%A8%E6%96%8C).
+- Energy-harvesting and intermittent computing systems
+- Worst-case execution-time (WCET) and static timing analysis for real-time systems
+- Optimization and system design for blockchain applications
 
-## Education
+## Contact and Academic Profiles
 
-- **Nanjing University of Posts and Telecommunications** (Sep 2021 – Present)
-  - B.Sc. in Intelligent Science and Technology
-  - Major Ranking: 11/62
+- **Email:** sduzhangwei [at] sdu.edu.cn
+- **Google Scholar:** [View profile](https://scholar.google.com/citations?user=uJ65n8MAAAAJ&hl=en)
+- **DBLP:** [View profile](https://dblp.org/pid/10/4661-173.html)
 
-## Research & Open Source Projects
+## News
 
-- **DeltaForce-OBS-Locker**
-  - An open-source project that has gained thousands of stars and forks on GitHub, demonstrating strong community engagement and technical impact.
-  - Repository: [https://github.com/ace-trump-tech/DeltaForce-OBS-Locker](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker)
+- **2025:** Our research was supported by the CCF-Huawei Populus Grove Fund.
+- **2022:** I was selected for the Young Scholars Future Program of Shandong University.
+- **2022:** I gave an invited talk, “Reducing Backup Overhead for Intermittent Computing,” at [MCS@ESWEEK 2022](https://msc-esweek.github.io/program.html).
 
-- **Graph-based Meteorological Forecasting**
-  - Led a key school-level STITP project: "Research on Meteorological Forecasting Based on Graph Neural Networks."
-  - Designed and constructed a GCN (Graph Convolutional Network) model to integrate spatio-temporal information for predicting meteorological indicators.
+## Research Support
 
-- **Intelligent Face Recognition Access Control System** (Mar 2024 - School-level Programming Project)
-  - Project Leader. Utilized OpenCV, MindSpore, and dlib for real-time face recognition. Integrated hardware (Raspberry Pi 4B, Arduino UNO) to control MLX90614, servos, and buzzers to implement a complete access control system.
+Our research has been supported by the National Natural Science Foundation of China (NSFC), including its Young Scientists Fund and a subproject under an NSFC Key Program; the Shandong Provincial Natural Science Foundation; and the CCF-Huawei Populus Grove Fund in 2022 and 2025.
 
-- **Digital Pulse Width Modulation Pulse Signal Generator** (Nov 2023 - School-level Electronic Circuit Project Design)
-  - Project Leader. Developed a pulse signal generator on the ISE Design platform with button-controlled, adjustable duty cycle, visualized on a digital tube display.
+## Selected Recent Publications
 
-- **Design and Implementation of a Laser Harp** (May 2023 - School-level Open Experimental Project)
-  - Main Participant. Programmed a microcontroller to turn laser beams into musical notes, creating a functional and interactive laser harp capable of playing various music.
+1. Yilan Zhu, Honghui You, **Wei Zhang**, Jiming Xu, Qian Lou, Shoumeng Yan, and Lei Ju. “DAHE: Parameter-Adaptive and Memory-Efficient FPGA Acceleration of Homomorphic Encryption.” *IEEE Transactions on Computers (TC)*, 2025.
 
-## Skills & Certifications
+2. **Wei Zhang**, Yunlong Yu, Xiao Jiang, Nan Guan, Naijun Zhan, and Lei Ju. “WCET Estimation for CNN Inference on FPGA SoCs with Multi-DPU Engines.” *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2025.
 
-- **Programming Languages:** Python, C
-- **Development Platforms:** ISE Design, Jieliuchuang EDA
-- **Certificates:** CET-4, CET-6
+3. Juxin Niu, Yunlong Yu, **Wei Zhang**, and Nan Guan. “Data-Dependent WAR Analysis for Efficient Task-Based Intermittent Computing.” *International Symposium on Dependable Software Engineering: Theories, Tools, and Applications (SETTA)*, 2024.
 
-## Honors & Awards
+4. Shangshang Xiao, Mengxia Sun, **Wei Zhang**, Naijun Zhan, and Lei Ju. “Cache Behavior Analysis with SP-Relative Addressing for WCET Estimation.” *International Symposium on Dependable Software Engineering: Theories, Tools, and Applications (SETTA)*, 2024.
 
-- **Personal Honors:**
-  - Huawei-Ministry of Education 2022-2023 Intelligent Infrastructure "Future Star"
-  - Outstanding Young Volunteer, Outstanding League Member
-  - Nanjing University of Posts and Telecommunications 2022-2023 Comprehensive Progress Scholarship
-  - Advanced Individual of Nanjing University of Posts and Telecommunications
+5. Juxin Niu, Yunlong Yu, **Wei Zhang**, and Naijun Zhan. “Adaptive Checkpointing Method for Intermittent Computing Systems.” *IEEE 14th International Symposium on Industrial Embedded Systems (SIES)*, 2024.
 
-- **Competition Achievements:**
-  - 2024 U.S. Collegiate Mathematical Modeling Competition S Award
-  - Nanjing University of Posts and Telecommunications 2024 "Challenge Cup" Competition Bronze Award
-  - 2023 (15th) Mathematical Modeling Competition Third Prize
-  - Second Smart City Technology Competition Third Prize
-  - 2023 College Student Advertising Art Competition Third Prize
-  - Third College Student Financial Literacy Competition First Prize
-  - 2022 China Youth Giant Panda Guardian Plan Honorary Award
+6. Juxin Niu, **Wei Zhang**, Chun Jason Xue, and Nan Guan. “RTiL: Real-Time Inference of Large Language Models on Memory-Constrained GPU Devices.” *IEEE 30th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)*, 2024. **Best Paper Candidate.**
 
-## Work Experience
+7. Shuo Xu, **Wei Zhang**, Mengying Zhao, Zimeng Zhou, and Lei Ju. “Cache-Aware Task Decomposition for Efficient Intermittent Computing Systems.” *Design Automation Conference (DAC)*, 2024.
 
-- **Publicity Committee Member, Class B210414**
-  - Proficient in PPT creation and experienced in article writing.
+For a complete publication list, please visit my [Google Scholar](https://scholar.google.com/citations?user=uJ65n8MAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/10/4661-173.html) profile.
+
+## Academic Service
+
+- Artifact Evaluation Chair, IEEE Real-Time Systems Symposium (RTSS), 2023
+- Technical Program Committee Member, IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2023
+- Technical Program Committee Member, IEEE International Conference on Dependable Systems and Their Applications (DependSys), 2022
+- Technical Program Committee Member, IEEE International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing (ISORC), 2022
+- Technical Program Committee Member, IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2021
