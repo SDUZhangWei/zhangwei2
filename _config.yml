@@ -1,9 +1,9 @@
 # Basic site settings
-locale: "en-US"
-title: "Wei Zhang | Shandong University"
+locale: "zh-CN"
+title: "张伟教授 | 山东大学"
 title_separator: "-"
-name: &name "Wei Zhang"
-description: &description "Academic homepage of Wei Zhang, Associate Professor at Shandong University."
+name: &name "张伟"
+description: &description "山东大学网络空间安全学院（研究院）张伟教授个人主页。"
 
 # Replace YOUR_GITHUB_USERNAME in the following three fields.
 # This configuration assumes that the repository is named:
@@ -15,11 +15,11 @@ repository: "YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.github.io"
 # Author information shown in the sidebar
 author:
   avatar: "zhangwei.jpg"
-  name: "Wei Zhang"
+  name: "张伟教授"
   pronouns:
-  bio: "Associate Professor at the School of Cyber Science and Technology, Shandong University."
-  location: "Qingdao, China"
-  employer: "Shandong University"
+  bio: "山东大学网络空间安全学院（研究院）教授、博士生导师、硕士生导师"
+  location: "中国·青岛"
+  employer: "山东大学"
   uri: "https://zhangwei.github.io"
   email: "sduzhangwei@sdu.edu.cn"
 
@@ -106,7 +106,7 @@ og_image:
 
 social:
   type: "Person"
-  name: "Wei Zhang"
+  name: "张伟"
   links:
     - "https://scholar.google.com/citations?user=uJ65n8MAAAAJ&hl=en"
     - "https://dblp.org/pid/10/4661-173.html"
