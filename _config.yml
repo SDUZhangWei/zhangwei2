@@ -20,7 +20,7 @@ author:
   bio: "Associate Professor at the School of Cyber Science and Technology, Shandong University."
   location: "Qingdao, China"
   employer: "Shandong University"
-  uri: "https://YOUR_GITHUB_USERNAME.github.io"
+  uri: "https://zhangwei.github.io"
   email: "sduzhangwei@sdu.edu.cn"
 
   # Academic profiles
@@ -33,39 +33,39 @@ author:
   researchgate:
   scopus:
 
-  # Repositories and software development
-  bitbucket:
-  codepen:
-  dribbble:
-  github: "YOUR_GITHUB_USERNAME"
-  kaggle:
-  stackoverflow:
+  # # Repositories and software development
+  # bitbucket:
+  # codepen:
+  # dribbble:
+  # github: "YOUR_GITHUB_USERNAME"
+  # kaggle:
+  # stackoverflow:
 
-  # Social media
-  bluesky:
-  facebook:
-  flickr:
-  foursquare:
-  goodreads:
-  google_plus:
-  keybase:
-  instagram:
-  lastfm:
-  linkedin:
-  mastodon:
-  medium:
-  pinterest:
-  soundcloud:
-  steam:
-  telegram:
-  tumblr:
-  twitter:
-  vine:
-  weibo:
-  wikipedia:
-  xing:
-  youtube:
-  zhihu:
+  # # Social media
+  # bluesky:
+  # facebook:
+  # flickr:
+  # foursquare:
+  # goodreads:
+  # google_plus:
+  # keybase:
+  # instagram:
+  # lastfm:
+  # linkedin:
+  # mastodon:
+  # medium:
+  # pinterest:
+  # soundcloud:
+  # steam:
+  # telegram:
+  # tumblr:
+  # twitter:
+  # vine:
+  # weibo:
+  # wikipedia:
+  # xing:
+  # youtube:
+  # zhihu:
 
 # Publication categories
 publication_category:
