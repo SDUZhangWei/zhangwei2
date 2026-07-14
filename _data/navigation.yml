@@ -7,3 +7,6 @@
 main:
   - title: "Our Team"
     url: /our-team/
+
+  - title: "招生 / Join Us"
+    url: /join-us/
