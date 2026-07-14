@@ -8,9 +8,9 @@ description: &description "山东大学网络空间安全学院（研究院）�
 # Replace YOUR_GITHUB_USERNAME in the following three fields.
 # This configuration assumes that the repository is named:
 # YOUR_GITHUB_USERNAME.github.io
-url: "https://YOUR_GITHUB_USERNAME.github.io"
-baseurl: ""
-repository: "YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.github.io"
+url: "https://sduzhangwei.github.io"
+baseurl: "/zhangwei2"
+repository: "SDUZhangWei/zhangwei2"
 
 # Author information shown in the sidebar
 author:
