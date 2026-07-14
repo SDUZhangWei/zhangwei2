@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**所属院部：** 网络空间安全学院（研究院）　　**访问次数：** 00018329 次
+**所属院部：** 网络空间安全学院（研究院）
 
 ## 基本信息
 
@@ -19,7 +19,7 @@ redirect_from:
 
 ## 教师简介
 
-**个人邮箱：** sduzhangwei“at”sdu.edu.cn
+**个人邮箱：** [sduzhangwei@sdu.edu.cn](mailto:sduzhangwei@sdu.edu.cn)
 
 ### News
 

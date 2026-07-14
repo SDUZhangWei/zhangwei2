@@ -1,9 +1,9 @@
 # Basic site settings
 locale: "zh-CN"
-title: "张伟教授 | 山东大学"
+title: "张伟 | 山东大学"
 title_separator: "-"
 name: &name "张伟"
-description: &description "山东大学网络空间安全学院（研究院）张伟教授个人主页。"
+description: &description "山东大学网络空间安全学院（研究院）张伟个人主页。"
 
 # Replace YOUR_GITHUB_USERNAME in the following three fields.
 # This configuration assumes that the repository is named:
@@ -15,12 +15,11 @@ repository: "SDUZhangWei/zhangwei2"
 # Author information shown in the sidebar
 author:
   avatar: "zhangwei.jpg"
-  name: "张伟教授"
+  name: "张伟"
   pronouns:
   bio: "山东大学网络空间安全学院（研究院）教授、博士生导师、硕士生导师"
   location: "中国·青岛"
   employer: "山东大学"
-  uri: "https://zhangwei.github.io"
   email: "sduzhangwei@sdu.edu.cn"
 
   # Academic profiles
