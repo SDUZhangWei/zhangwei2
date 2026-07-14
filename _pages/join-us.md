@@ -1,68 +1,68 @@
 ---
 permalink: /join-us/
-title: "招生 / Join Us"
+title: "Join Us"
 author_profile: true
 ---
 
-## 欢迎本科生和研究生加入团队
+## Opportunities for Undergraduate and Graduate Students
 
-我们的科研团队欢迎对系统研究充满热情的本科生、硕士研究生和博士研究生加入，共同探索**系统软件、静态分析、Rust 安全与实时系统**领域的前沿课题。
+We welcome motivated undergraduate, master's, and Ph.D. students to join our research team and explore frontier topics in **system software, static analysis, Rust security, and real-time systems**.
 
-本科生可以通过科研项目、课程之外的系统实践和团队协作逐步了解学术研究；研究生将在明确研究方向的基础上，围绕具有挑战性的科学与工程问题开展深入研究。我们希望帮助每位同学理解计算机系统的运行机制，掌握程序分析、系统设计与实验评估方法，并在解决开放性问题的过程中形成独立研究能力。
+Undergraduate students can gain early research experience through hands-on projects, system development, and teamwork beyond the classroom. Graduate students will pursue in-depth research on challenging scientific and engineering problems within a focused area. We aim to help every student understand how computer systems work, master the methods of program analysis, system design, and experimental evaluation, and develop the ability to conduct independent research.
 
-## 研究方向
+## Research Areas
 
-### 系统软件
+### System Software
 
-我们关注操作系统、编译器、运行时系统和嵌入式软件中的分析、设计与优化问题，研究如何构建更加可靠、高效和易验证的系统软件。具体课题可能涉及系统性能分析、软硬件协同优化、资源管理以及面向新型计算平台的系统设计。
+We study the analysis, design, and optimization of operating systems, compilers, runtime systems, and embedded software. Our goal is to build system software that is more reliable, efficient, and amenable to verification. Potential projects include system performance analysis, hardware-software co-optimization, resource management, and system design for emerging computing platforms.
 
-### 静态分析
+### Static Analysis
 
-静态分析是在不实际运行程序的情况下推断程序行为的重要技术，可用于发现缺陷、验证安全属性和评估程序性能。我们重点关注抽象解释、路径敏感分析、缓存与微体系结构分析，以及最坏情况执行时间（WCET）估计等问题。
+Static analysis infers program behavior without executing the program. It is widely used to detect defects, verify security properties, and evaluate performance. We are particularly interested in abstract interpretation, path-sensitive analysis, cache and microarchitectural analysis, and worst-case execution-time (WCET) estimation.
 
-**我们尤其关注如何在分析精度、可扩展性与分析效率之间取得平衡，并将理论方法实现为能够处理真实程序的分析工具。**
+**A central theme of our work is balancing precision, scalability, and efficiency while turning theoretical methods into practical tools for real-world software.**
 
-### Rust 安全
+### Rust Security
 
-Rust 通过所有权、借用和类型系统在编译期保障内存安全，但真实系统中仍可能包含 `unsafe` 代码、并发错误、外部函数接口和逻辑缺陷。我们关注 Rust 程序的安全分析、漏洞检测、`unsafe` 代码验证，以及面向系统软件的可靠 Rust 开发方法。
+Rust provides strong compile-time memory-safety guarantees through ownership, borrowing, and its type system. Nevertheless, real systems may still contain `unsafe` code, concurrency bugs, foreign-function interfaces, and logical defects. We study security analysis, vulnerability detection, verification of `unsafe` code, and reliable development methods for Rust-based system software.
 
-参与相关项目的同学将有机会学习 Rust 语言、编译器基础、程序分析和软件安全，并探索如何为 Rust 生态构建实用的安全分析工具。
+Students working in this area will have opportunities to learn Rust, compiler fundamentals, program analysis, and software security while building practical security-analysis tools for the Rust ecosystem.
 
-### 实时系统
+### Real-Time Systems
 
-实时系统不仅要求计算结果正确，还要求任务在规定时间内完成。我们关注实时与嵌入式系统中的时序分析、最坏情况执行时间估计、任务调度、资源竞争分析，以及 AI 推理任务在嵌入式和异构平台上的可预测执行。
+Real-time systems must produce correct results within specified timing constraints. We study timing analysis, worst-case execution-time estimation, task scheduling, resource-contention analysis, and predictable AI inference on embedded and heterogeneous platforms.
 
-## 我们期待这样的你
+## What We Look For
 
-- 对计算机系统背后的原理保持好奇，愿意追问问题产生的原因，而不仅仅满足于程序能够运行；
-- 面对陌生知识和开放性问题时，愿意主动查阅资料、动手验证并持续改进；
-- 重视合作与沟通，能够清晰表达自己的想法，也愿意倾听和回应团队成员的建议；
-- 对自己的工作有责任感，能够合理安排时间，并对代码、实验数据和研究结论保持严谨；
-- 具备一定的编程基础，熟悉 C、C++、Rust 或 Python 中的一门或多门语言。
+- Curiosity about how computer systems work and a desire to understand why a problem occurs, not merely how to make a program run;
+- Willingness to learn unfamiliar topics, investigate open-ended questions, test ideas, and improve solutions through iteration;
+- Clear communication, respect for collaboration, and openness to feedback from other team members;
+- A responsible and rigorous approach to code, experimental data, and research conclusions;
+- Basic programming experience in one or more languages such as C, C++, Rust, or Python.
 
 ---
 
-我们不要求申请者一开始就掌握所有知识。以下经历有助于更快进入研究状态，但不是加入团队的必要条件：
+We do not expect applicants to know everything from the outset. The following experience can help you get started more quickly, but it is not required:
 
-- 学习过操作系统、编译原理、程序设计语言、计算机体系结构或实时系统课程；
-- 有 Rust 开发经验，或愿意系统学习 Rust；
-- 对程序分析、形式化方法、软件安全或性能优化有一定了解；
-- 有大型软件项目、开源项目、学科竞赛或科研项目经验；
-- 具备良好的英文论文阅读和技术写作能力。
+- Coursework in operating systems, compilers, programming languages, computer architecture, or real-time systems;
+- Experience with Rust, or a strong interest in learning it systematically;
+- Familiarity with program analysis, formal methods, software security, or performance optimization;
+- Experience with substantial software projects, open-source development, technical competitions, or research projects;
+- The ability to read research papers and communicate technical ideas in English.
 
-## 培养方式与实践机会
+## Mentorship and Practical Experience
 
-团队坚持**因材施教**，会结合每位同学的兴趣、知识背景和个人特点制定阶段目标，帮助大家找到适合自己的成长路径，充分发挥各自的优势。
+Our mentoring is **tailored to each student**. We set appropriate milestones based on individual interests, backgrounds, and strengths, helping every team member find a suitable path and realize their potential.
 
-- 参与真实科研课题和系统工具开发，在实践中完成从问题分析、方案设计到实验验证的完整过程；
-- 获得程序分析、系统研究、论文阅读、学术写作和实验方法等方面的针对性指导；
-- 参与团队讨论、项目协作和学术交流，逐步培养独立思考与研究能力；
-- 获得与华为等企业合作项目的实践机会，了解产业中的真实需求、工程流程和技术挑战；
-- 根据个人兴趣与项目进展，参与论文撰写、开源软件开发、学术会议和企业交流；
-- 本科生可以提前体验科研训练、探索未来方向；研究生可以围绕核心课题开展系统、持续的深入研究。
+- Work on real research problems and system tools, gaining hands-on experience from problem formulation and solution design to implementation and experimental evaluation;
+- Receive focused guidance in program analysis, systems research, paper reading, academic writing, and experimental methodology;
+- Develop independent thinking and research skills through regular discussions, project collaboration, and academic exchange;
+- Gain practical experience through collaborative projects with Huawei and other industry partners, and learn about real-world needs, engineering workflows, and technical challenges;
+- Contribute to research papers, open-source software, academic conferences, and industry exchanges as projects progress;
+- Explore research interests early as an undergraduate or conduct sustained, in-depth work on a core topic as a graduate student.
 
-## 联系方式
+## Contact
 
-如果你对上述方向感兴趣，希望通过科研和实践挖掘自己的潜力、拓展知识边界，欢迎加入我们的团队。无论你目前处于本科阶段，还是计划攻读或正在攻读硕士、博士学位，都可以来信交流。
+If these topics interest you and you would like to expand your knowledge through research and practice, we would be delighted to hear from you. Whether you are an undergraduate, are planning to pursue a graduate degree, or are already enrolled in a master's or Ph.D. program, you are welcome to get in touch.
 
-请发送邮件至 [sduzhangwei@sdu.edu.cn](mailto:sduzhangwei@sdu.edu.cn)，邮件标题建议使用“**加入团队—姓名—当前学校/年级—申请类型**”，并简要介绍自己的教育背景、编程或科研经历、感兴趣的研究方向，以及希望在团队中开展的学习或研究计划。
+Please email [sduzhangwei@sdu.edu.cn](mailto:sduzhangwei@sdu.edu.cn) with the subject line “**Join the Team — Name — Current Institution/Year — Application Type**.” Include a brief introduction to your educational background, programming or research experience, research interests, and what you hope to study or accomplish with the team.

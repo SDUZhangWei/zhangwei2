@@ -1,41 +1,41 @@
 ---
 permalink: /
-title: "张伟"
+title: "Wei Zhang"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-**所属院部：** 网络空间安全学院（研究院）
+**School:** School of Cyber Science and Technology
 
-## 基本信息
+## Basic Information
 
 | | | |
 | --- | --- | --- |
-| **入职时间：** 2021-11 | **所在单位：** 网络空间安全学院（研究院） | **职务：** 教授 |
-| **学历：** 研究生（博士）毕业 | **性别：** 男 | **学位：** 博士生 |
-| **毕业院校：** 香港理工大学 | **博士生导师** | **硕士生导师** |
+| **Joined SDU:** November 2021 | **Affiliation:** School of Cyber Science and Technology | **Position:** Professor |
+| **Education:** Ph.D. | **Gender:** Male | **Degree:** Ph.D. |
+| **Alma Mater:** The Hong Kong Polytechnic University | **Ph.D. Supervisor** | **Master's Supervisor** |
 
-## 教师简介
+## Profile
 
-**个人邮箱：** [sduzhangwei@sdu.edu.cn](mailto:sduzhangwei@sdu.edu.cn)
+**Email:** [sduzhangwei@sdu.edu.cn](mailto:sduzhangwei@sdu.edu.cn)
 
 ### News
 
-- Our work got supported by “CCF-Huawei Populus Grove Fund” 2025（华为胡杨林基金）
-- Our work got supported by National Natural Science Foundation of China（重点项目课题）
-- Our work got supported by NSFC（青年基金 C 类）
-- Our work got supported by “CCF-Huawei Populus Grove Fund” 2022（华为胡杨林基金）
-- Our work got supported by Shandong Provincial Natural Science Foundation（山东省自然科学基金）
+- Our work was supported by the 2025 CCF-Huawei Populus Grove Fund.
+- Our work was supported by a subproject of a Key Program of the National Natural Science Foundation of China (NSFC).
+- Our work was supported by the NSFC Young Scientists Fund (Category C).
+- Our work was supported by the 2022 CCF-Huawei Populus Grove Fund.
+- Our work was supported by the Shandong Provincial Natural Science Foundation.
 
-## 研究方向
+## Research Interests
 
-系统软件分析、设计与验证
+Analysis, design, and verification of system software
 
-## 论文发表
+## Publications
 
-完整论文列表详见 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=uJ65n8MAAAAJ&view_op=list_works&sortby=pubdate)。
+For a complete publication list, please visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=uJ65n8MAAAAJ&view_op=list_works&sortby=pubdate).
 
 1. Shangshang Xiao, Mengxia Sun, **Wei Zhang**, Naijun Zhan, and Lei Ju. “Path-Sensitive Abstract Interpretation for WCET Estimation.” *Proceedings of the ACM on Programming Languages (PLDI)*, 2026. **(CCF-A)**
 
@@ -76,6 +76,6 @@ redirect_from:
 - IEEE DependSys 2022, TPC
 - IEEE ISORC 2022, TPC
 
-## 教育经历
+## Education
 
-**2018-09 — 2021-09**　香港理工大学
+**September 2018 — September 2021** — The Hong Kong Polytechnic University

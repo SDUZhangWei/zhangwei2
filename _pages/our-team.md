@@ -4,7 +4,7 @@ title: "Our Team"
 author_profile: true
 ---
 
-欢迎来到我们的团队相册。这里记录团队聚会、学术交流与共同成长的美好时刻。
+Welcome to our team gallery, where we share moments from team gatherings, academic activities, and our journey together.
 
 {% assign team_photo_count = 0 %}
 {% for photo in site.static_files %}
@@ -23,14 +23,14 @@ author_profile: true
       {% assign extension = photo.extname | downcase %}
       {% if extension == '.jpg' or extension == '.jpeg' or extension == '.png' or extension == '.webp' %}
         <figure class="team-gallery__item">
-          <img src="{{ photo.path | relative_url }}" alt="团队聚会照片" loading="lazy">
+          <img src="{{ photo.path | relative_url }}" alt="Team gathering" loading="lazy">
         </figure>
       {% endif %}
     {% endif %}
   {% endfor %}
 </div>
 {% else %}
-<p class="notice--info">团队聚会照片即将更新。</p>
+<p class="notice--info">Team photos will be added soon.</p>
 {% endif %}
 
 <style>
