@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-**School:** School of Cyber Science and Technology
+I am currently an associate professor at the School of Cyber Science and Technology, Shandong University, Qingdao, China. I received my Ph.D. degree from The Hong Kong Polytechnic University, supervised by [Dr. Nan Guan](https://www.cs.cityu.edu.hk/~nanguan/).
 
-## Basic Information
+My research interests include:
 
-| | | |
-| --- | --- | --- |
-| **Joined SDU:** November 2021 | **Affiliation:** School of Cyber Science and Technology | **Position:** Professor |
-| **Education:** Ph.D. | **Gender:** Male | **Degree:** Ph.D. |
-| **Alma Mater:** The Hong Kong Polytechnic University | **Ph.D. Supervisor** | **Master's Supervisor** |
+- Analysis, optimization and design for energy harvesting systems
+- Static timing analysis and optimization for real-time tasks
+- Optimization for Blockchain systems
 
-## Profile
+Google Scholar page: [https://scholar.google.com/citations?user=uJ65n8MAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=uJ65n8MAAAAJ&hl=zh-CN)
 
-**Email:** [sduzhangwei@sdu.edu.cn](mailto:sduzhangwei@sdu.edu.cn)
+DBLP page: [https://dblp.org/pid/10/4661-173.html](https://dblp.org/pid/10/4661-173.html)
 
-### News
+EMAIL: sduzhangwei [at] sdu.edu.cn
+
+## News
 
 - Our work was supported by the 2025 CCF-Huawei Populus Grove Fund.
 - Our work was supported by a subproject of a Key Program of the National Natural Science Foundation of China (NSFC).
@@ -29,13 +29,7 @@ redirect_from:
 - Our work was supported by the 2022 CCF-Huawei Populus Grove Fund.
 - Our work was supported by the Shandong Provincial Natural Science Foundation.
 
-## Research Interests
-
-Analysis, design, and verification of system software
-
-## Publications
-
-For a complete publication list, please visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=uJ65n8MAAAAJ&view_op=list_works&sortby=pubdate).
+## Recent Publications:
 
 1. Shangshang Xiao, Mengxia Sun, **Wei Zhang**, Naijun Zhan, and Lei Ju. “Path-Sensitive Abstract Interpretation for WCET Estimation.” *Proceedings of the ACM on Programming Languages (PLDI)*, 2026. **(CCF-A)**
 
