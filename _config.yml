@@ -9,8 +9,8 @@ description: &description "Academic homepage of Wei Zhang at the School of Cyber
 # This configuration assumes that the repository is named:
 # YOUR_GITHUB_USERNAME.github.io
 url: "https://sduzhangwei.github.io"
-baseurl: "/zhangwei2"
-repository: "SDUZhangWei/zhangwei2"
+baseurl: ""
+repository: "SDUZhangWei/SDUZhangWei.github.io"
 
 # Author information shown in the sidebar
 author:
