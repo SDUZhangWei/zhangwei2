@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Wei Zhang"
 author_profile: true
 redirect_from:
   - /about/
@@ -19,7 +18,7 @@ Google Scholar page: [https://scholar.google.com/citations?user=uJ65n8MAAAAJ&hl=
 
 DBLP page: [https://dblp.org/pid/10/4661-173.html](https://dblp.org/pid/10/4661-173.html)
 
-EMAIL: sduzhangwei [at] sdu.edu.cn
+EMAIL: sduzhangwei@sdu.edu.cn
 
 ## News
 
@@ -69,7 +68,3 @@ EMAIL: sduzhangwei [at] sdu.edu.cn
 - IEEE RTCSA 2023, TPC
 - IEEE DependSys 2022, TPC
 - IEEE ISORC 2022, TPC
-
-## Education
-
-**September 2018 — September 2021** — The Hong Kong Polytechnic University
