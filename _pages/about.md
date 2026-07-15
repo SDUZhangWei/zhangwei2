@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate professor at the School of Cyber Science and Technology, Shandong University, Qingdao, China. I received my Ph.D. degree from The Hong Kong Polytechnic University, supervised by [Dr. Nan Guan](https://www.cs.cityu.edu.hk/~nanguan/).
+I am currently a professor at the School of Cyber Science and Technology, Shandong University, Qingdao, China. I received my Ph.D. degree from The Hong Kong Polytechnic University, supervised by [Dr. Nan Guan](https://www.cs.cityu.edu.hk/~nanguan/).
 
 My research interests include:
 
