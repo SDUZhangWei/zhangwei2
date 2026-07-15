@@ -1,6 +1,6 @@
 ---
-permalink: /our-team/
-title: "Our Team"
+permalink: /gallery/
+title: "Gallery"
 author_profile: true
 ---
 
