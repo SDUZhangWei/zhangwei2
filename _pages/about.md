@@ -23,7 +23,7 @@ EMAIL: sduzhangwei@sdu.edu.cn
 ## News:
 
 - I am selected into the Young Scholars Future Program of Shandong University in 2022
-- I will give an invited talk "Reducing backup overhead for intermittent computing" on [MCS@ESWEEK 2022](https://msc-esweek.github.io/program.html).
+- I gave an invited talk "Reducing backup overhead for intermittent computing" at [MCS@ESWEEK 2022](https://msc-esweek.github.io/program.html).
 - Our work got supported by "CCF-Huawei Populus Grove Fund" in 2022
 - Our work got supported by Shandong Provincial Natural Science Foundation
 - Our work got supported by the National Natural Science Foundation of China (NSFC) Young Scholar Program
