@@ -20,13 +20,15 @@ DBLP page: [https://dblp.org/pid/10/4661-173.html](https://dblp.org/pid/10/4661-
 
 EMAIL: sduzhangwei@sdu.edu.cn
 
-## News
+## News:
 
-- Our work was supported by the 2025 CCF-Huawei Populus Grove Fund.
-- Our work was supported by a subproject of a Key Program of the National Natural Science Foundation of China (NSFC).
-- Our work was supported by the NSFC Young Scientists Fund (Category C).
-- Our work was supported by the 2022 CCF-Huawei Populus Grove Fund.
-- Our work was supported by the Shandong Provincial Natural Science Foundation.
+- I am selected into the Young Scholars Future Program of Shandong University in 2022
+- I will give an invited talk "Reducing backup overhead for intermittent computing" on [MCS@ESWEEK 2022](https://msc-esweek.github.io/program.html).
+- Our work got supported by "CCF-Huawei Populus Grove Fund" in 2022
+- Our work got supported by Shandong Provincial Natural Science Foundation
+- Our work got supported by the National Natural Science Foundation of China (NSFC) Young Scholar Program
+- Our work got supported by a sub-project of the NSFC Key Project
+- Our work got supported by "CCF-Huawei Populus Grove Fund" in 2025
 
 ## Recent Publications:
 
@@ -76,7 +78,8 @@ EMAIL: sduzhangwei@sdu.edu.cn
 
 ## Services
 
-- RTSS 2023, AE Chair
+- IEEE RTSS 2023, Artifact Evaluation Chair
 - IEEE RTCSA 2023, TPC
 - IEEE DependSys 2022, TPC
-- IEEE ISORC 2022, TPC
+- ISORC 2022, TPC
+- IEEE RTCSA 2021, TPC
